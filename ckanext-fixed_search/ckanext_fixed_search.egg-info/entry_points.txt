@@ -1,7 +1,0 @@
-
-        [ckan.plugins]
-        fixed_search=ckanext.fixed_search.plugin:FixedSearchPlugin
-
-        [babel.extractors]
-        ckan = ckan.lib.extract:extract_ckan
-    
