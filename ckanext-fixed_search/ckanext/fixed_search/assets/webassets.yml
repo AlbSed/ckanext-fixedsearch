@@ -1,0 +1,14 @@
+# fixed_search-js:
+#   filter: rjsmin
+#   output: ckanext-fixed_search/%(version)s-fixed_search.js
+#   contents:
+#     - js/fixed_search.js
+#   extra:
+#     preload:
+#       - base/main
+
+# fixed_search-css:
+#   filter: cssrewrite
+#   output: ckanext-fixed_search/%(version)s-fixed_search.css
+#   contents:
+#     - css/fixed_search.css
