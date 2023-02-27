@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: ckanext-fixed-search
+Version: 0.0.1
+Summary: Plugin for searching uncomplete words.
+Home-page: https://github.com/NAKIT/ckanext-fixed_search
+Author: Albert Sedlacek
+Author-email: albert.sedlacek@nakit.cz
+License: AGPL
+Keywords: CKAN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 2.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 [![Tests](https://github.com/NAKIT/ckanext-fixed_search/workflows/Tests/badge.svg?branch=main)](https://github.com/NAKIT/ckanext-fixed_search/actions)
 
 # ckanext-fixed_search
@@ -121,3 +137,5 @@ If ckanext-fixed_search should be available on PyPI you can follow these steps t
 ## License
 
 [AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+
